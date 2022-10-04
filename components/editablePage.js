@@ -1,4 +1,4 @@
-import uid from "../helpers/unid.js";
+import uid from "../helpers/uid.js";
 const editablePage = () => {
   const initialBlock = { id: uid(), html: "", tag: "p" };
 
